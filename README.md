@@ -1,4 +1,4 @@
-# python_streamlit_banking_project
+# python_banking_project
 
 
 
