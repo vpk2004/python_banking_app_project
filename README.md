@@ -39,4 +39,4 @@ This is a **streamlit-based banking application** designed to simulate essential
   - `streamlit` for UI
   - `mysql.connector` for database connectivity
   - `pandas` for data handling
- - `Pillow` for image handling
+  - `Pillow` for image handling
