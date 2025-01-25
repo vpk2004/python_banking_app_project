@@ -1,9 +1,5 @@
 # python_banking_project
 
-
-
-Here’s a possible GitHub description for your code:
-
 ---
 
 ### Banking App
