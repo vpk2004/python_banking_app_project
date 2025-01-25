@@ -2,7 +2,7 @@
 
 ---
 
-### Banking App
+🚀Banking App( Real Time In Future )🌟
 
 This is a **streamlit-based banking application** designed to simulate essential banking operations. The app interacts with a MySQL database to manage user accounts, perform transactions, and provide personalized banking services. It features a user-friendly interface and ensures secure data handling for an enhanced banking experience.
 
@@ -39,4 +39,4 @@ This is a **streamlit-based banking application** designed to simulate essential
   - `streamlit` for UI
   - `mysql.connector` for database connectivity
   - `pandas` for data handling
-  - `Pillow` for image handling
+ - `Pillow` for image handling
